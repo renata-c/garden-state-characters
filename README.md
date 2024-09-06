@@ -1,4 +1,4 @@
-### 🌱 **Garden State Characters: Sua Busca por Personagens Favoritos**
+### 🌱 **Garden State Characters: Sua Busca por Personagens Favoritos - Imersão Dev com Google Gemini**
 
 **O que é esse projeto?**
 
